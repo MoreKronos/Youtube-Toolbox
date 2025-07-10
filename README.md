@@ -9,8 +9,7 @@ A Windows batch-powered toolset for downloading and organizing YouTube music loc
 - 📥 Download YouTube videos or entire playlists as high-quality MP3s  
 - 🧠 Automatically rename files to clean, zero-padded formats  
 - 🗃️ Remove duplicate MP3s based on title metadata  
-- 🧰 Auto-installs missing dependencies like `yt-dlp`, `ffmpeg`, and `dupefinder.ps1`  
-- 🔁 Compatible with [Youtube-Toolkit](https://github.com/MoreKronos/Youtube-Toolkit)
+- 🧰 Auto-installs missing dependencies like `yt-dlp`, `7-zip`, `ffmpeg`, and `dupefinder.ps1`  
 
 ---
 
