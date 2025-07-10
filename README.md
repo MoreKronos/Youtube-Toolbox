@@ -53,9 +53,6 @@ In no event shall the copyright holder be liable for any claim, damages, or othe
 
 ---
 
-### 📬 7. Contact Section
-
-
 ## 📬 Contact
 
 If you have questions or requests, contact me on Discord:  
