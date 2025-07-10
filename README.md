@@ -37,8 +37,8 @@ You remain fully in control of your files and downloads at all times.
 
 ## 📝 License
 
-```text
-Copyright (c) 2025 MoreKronos
+``text
+Copyright (c) 2025 **[MoreKronos](https://github.com/MoreKronos)**
 
 All rights reserved.
 
