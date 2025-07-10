@@ -34,7 +34,7 @@ The following tools are automatically downloaded or included with this program:
 You remain fully in control of your files and downloads at all times.
 
 ---
-```markdown
+
 ## 📝 License
 
 Copyright (c) 2025 **[MoreKronos](https://github.com/MoreKronos)**
@@ -55,7 +55,7 @@ In no event shall the copyright holder be liable for any claim, damages, or othe
 
 ### 📬 7. Contact Section
 
-```markdown
+
 ## 📬 Contact
 
 If you have questions or requests, contact me on Discord:  
