@@ -34,10 +34,9 @@ The following tools are automatically downloaded or included with this program:
 You remain fully in control of your files and downloads at all times.
 
 ---
-
+```markdown
 ## 📝 License
 
-``text
 Copyright (c) 2025 **[MoreKronos](https://github.com/MoreKronos)**
 
 All rights reserved.
