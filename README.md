@@ -19,8 +19,21 @@ The following tools are automatically downloaded or included with this program:
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [FFmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z)
-- [7-Zip CLI](https://7-zip.org/a/7z2500-x64.exe)
+- [7-Zip Portable](https://github.com/MoreKronos/7-zip-portable)
 - [Dupefinder Script](https://github.com/MoreKronos/Dupefinder)
+
+---
+
+## 🚀 Usage
+
+1. **Download or clone** this repository to your Windows machine.
+2. **Run the main batch script** (e.g., `YoutubeToolbox.exe`) as Administrator.
+3. Follow the on-screen prompts to:
+    - Download music by entering YouTube video or playlist URLs.
+    - Organize and rename your music files automatically.
+    - Remove duplicates based on metadata.
+4. The tool will automatically detect and install missing dependencies if needed.
+5. Your organized MP3s will be saved in the `music_files` folder inside the base directory.
 
 ---
 
