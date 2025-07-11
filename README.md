@@ -1,5 +1,8 @@
 # YouTube Toolbox
 
+> For an easier installation experience, it is **recommended** to download and use the Setup Wizard:  
+> [https://github.com/MoreKronos/Youtube-Toolbox/releases/download/Program/Setup.Wizard.exe](https://github.com/MoreKronos/Youtube-Toolbox/releases/download/Program/Setup.Wizard.exe)
+
 A Windows batch-powered toolset for downloading and organizing YouTube music locally with minimal effort. This project uses `yt-dlp`, `ffmpeg`, and a custom `Dupefinder` script to fetch, rename, clean, and deduplicate your MP3 music library.
 
 ---
@@ -26,21 +29,21 @@ The following tools are automatically downloaded or included with this program:
 
 ## 🚀 Usage
 
-1. **Download or clone** this repository to your Windows machine.
-2. **Run the main batch script** (e.g., `YoutubeToolbox.exe`) as Administrator.
-3. Follow the on-screen prompts to:
-    - Download music by entering YouTube video or playlist URLs.
-    - Organize and rename your music files automatically.
-    - Remove duplicates based on metadata.
-4. The tool will automatically detect and install missing dependencies if needed.
+1. **Download or clone** this repository to your Windows machine.  
+2. **Run the main batch script** (e.g., `YoutubeToolbox.exe`) as Administrator.  
+3. Follow the on-screen prompts to:  
+    - Download music by entering YouTube video or playlist URLs.  
+    - Organize and rename your music files automatically.  
+    - Remove duplicates based on metadata.  
+4. The tool will automatically detect and install missing dependencies if needed.  
 5. Your organized MP3s will be saved in the `music_files` folder inside the base directory.
 
 ---
 
 ## 🔒 Security & Privacy
 
-- This tool runs entirely **locally on your system**—no data is sent or stored online.
-- No personal information, login details, or download history is ever shared or collected.
+- This tool runs entirely **locally on your system** — no data is sent or stored online.  
+- No personal information, login details, or download history is ever shared or collected.  
 - YouTube downloads are performed anonymously using public video links.
 
 You remain fully in control of your files and downloads at all times.
