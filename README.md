@@ -53,7 +53,7 @@ You remain in full control of your content at all times.
 
 ## 📝 License
 
-Copyright (c) 2025 **[MoreKronos](https://github.com/MoreKronos)**
+Copyright (c) 2026 **[MoreKronos](https://github.com/MoreKronos)**
 
 All rights reserved.
 
