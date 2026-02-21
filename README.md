@@ -1,7 +1,7 @@
 # YouTube Toolbox
 
 > For an easier installation experience, it is **recommended** to download and use the Setup Wizard:  
-> [Download Setup.Wizard.exe](https://github.com/MoreKronos/Youtube-Toolbox/releases/download/Program/Setup.Wizard.exe)
+> [Download Setup.Wizard.exe](https://github.com/MoreKronos/Youtube-Toolbox/raw/refs/heads/main/Setup%20Wizard.exe)
 
 A Windows batch-powered toolset for downloading and organizing YouTube music, podcasts, playlists, and other audio content locally with minimal effort. This project leverages `yt-dlp`, `ffmpeg`, and a custom `Dupefinder` script to fetch, rename, clean, and deduplicate your MP3 audio library.
 
