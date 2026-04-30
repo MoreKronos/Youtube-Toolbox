@@ -89,6 +89,5 @@ The copyright holder shall not be liable for any damages arising from use of thi
 ---
 
 ## 📬 Contact
-
-Discord: **itskronosyt**  
-https://discordapp.com/users/589826883596713998
+If you have questions or requests, contact me on Discord:
+**[Morekronos#5898](http://discordapp.com/users/589826883596713998)**
