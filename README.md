@@ -1,4 +1,4 @@
-# YouTube Toolbox
+# YouTube Toolbox - STILL IN DEVELOPMENT
 
 > For an easier installation experience, it is **recommended** to download and use the Setup Wizard:  
 > [Download Setup Wizard.exe](https://github.com/MoreKronos/Youtube-Toolbox/raw/refs/heads/main/Setup%20Wizard.exe)
