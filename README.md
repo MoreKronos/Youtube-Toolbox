@@ -14,7 +14,7 @@ This project leverages `yt-dlp`, `ffmpeg` a custom `Dupefinder` and `Compare met
 - 🧠 Automatic file organization with clean numbering or randomized naming  
 - 🗃️ Duplicate detection and removal using metadata (title + artist)  
 - ⚡ Improved download engine stability and faster execution  
-- 🧰 Automatic dependency handling (`yt-dlp`, `ffmpeg`, `7-Zip`, `dupefinder.ps1`)  
+- 🧰 Automatic dependency handling (`yt-dlp`, `ffmpeg`, `7-Zip`, `dupefinder.ps1`, `compare.vbs`, `get_meta.vbs`)  
 - 🔧 Improved error handling and input validation (no more broken URLs or invalid inputs)  
 - 🎛️ Cleaner UI output with better download status feedback  
 
