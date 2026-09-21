@@ -2,7 +2,6 @@
 
 > For an easier installation experience, it is **recommended** to download and use the Setup Wizard:  
 > [Download Setup Wizard.exe](https://github.com/MoreKronos/Youtube-Toolbox/raw/refs/heads/main/Setup%20Wizard.exe)
-[Download compare.vbs](https://raw.githubusercontent.com/MoreKronos/compare-meta/refs/heads/main/compare.vbs)
 A Windows batch-powered toolset for downloading and organizing YouTube music, podcasts, playlists, and audio content locally with minimal effort.  
 This project leverages `yt-dlp`, `ffmpeg`, and a custom `Dupefinder` system to fetch, convert, rename, and clean your music library automatically.
 
@@ -42,7 +41,7 @@ The following tools are automatically downloaded or included:
 - [FFmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z) — Audio processing and conversion  
 - [7-Zip Portable](https://github.com/MoreKronos/7-zip-portable) — Archive extraction utility  
 - [Dupefinder Script](https://github.com/MoreKronos/Dupefinder) — Custom duplicate MP3 detection and cleanup
-- [compare meta](https://github.com/MoreKronos/compare-meta) - 
+- [compare meta](https://github.com/MoreKronos/compare-meta) - Compares your youtube playlist to your local playlist
 
 ---
 
